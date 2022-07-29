@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Jason, a software engineering student at the University of Waterloo, passionate about all things ML and crypto! Feel free to reach out with any ideas or things you'd like to work on :).
 <!--
 **jasonmilad/jasonmilad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
